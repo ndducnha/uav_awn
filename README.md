@@ -45,7 +45,9 @@ The proposed algorithm is based on the fuzzy set theory, which allows for a more
 
 While the proposed approach has potential for improving classification accuracy, the authors note that there are still areas for improvement. One such area is the consideration of correlation among different column vectors to enhance accuracy. Additionally, as the degree of imbalance and percentage of missing values can vary widely across multi-class datasets, further exploration is needed in this area. Nonetheless, the Fuzzy-based Information Decomposition algorithm is a promising solution for addressing the challenges of missing data estimation and imbalanced training data.
 
-![alt text](https://github.com/ndducnha/uav_awn/FID.png?raw=true)
+The workflow of FID can be shown in the below image.
+
+![alt text](https://github.com/ndducnha/uav_awn/blob/main/FID.png?raw=true)
 
 More details about the FID can be found in the work [1]
 
