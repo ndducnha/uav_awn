@@ -9,7 +9,7 @@ In the source code we have:
 
 ## The project
 
-The objective of this study is to evaluate the performance of forcecasting when dealing with missing data resulting from a hacker attack. The attack has compromised some of the data entries, and these entries have been modified from their original values. In such scenarios, restoring the missing data can be a challenging task, especially if the modifications were made with malicious intent.
+The objective of this project is to evaluate the performance of forcecasting when dealing with missing data resulting from a hacker attack. The attack has compromised some of the data entries, and these entries have been modified from their original values. In such scenarios, restoring the missing data can be a challenging task, especially if the modifications were made with malicious intent.
 
 To address this issue, we employed the Fuzzy-based Information Decomposition (FID) algorithm, which has been previously proposed in [1], to recover the missing data entries. The FID algorithm is a powerful tool that can handle data with uncertain and imprecise information. It decomposes the original data into fuzzy components, each containing a degree of membership that represents the probability of the data belonging to a certain category.
 
